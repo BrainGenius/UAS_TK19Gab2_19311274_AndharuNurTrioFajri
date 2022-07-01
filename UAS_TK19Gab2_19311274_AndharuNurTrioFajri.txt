@@ -1,0 +1,17 @@
+Page
+1. Biodata
+	a. Biodata (Foto diri, Video profile,  NPM, Nama, Jurusan, Fakultas, 
+	   Nama kelas).
+	d. Hobi.
+	e. Akun email, sosial media yang dimiliki.
+2. About
+	b. Deskripsi Diri.
+	c. Rencana di masa depan.
+3. Educational Background
+	f. Riwayat pendidikan sampai dengan saat ini.
+4. My Skill
+	g. Sertifikat, Piagam, penghargaan dan lainya yang dimiliki dari ikut 
+	   serta kegiatan pelatihan, workshop, seminar, perlombaan, atau 
+	   kegiatan lainnya.
+	h. Kemampuan yang dikuasai terkait bidang komputer.
+	i. Hasil karya yang pernah dibuat.
